@@ -1,11 +1,10 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/0*7Q3yvSIv_t0ioJ-Z.gif)](https://github.com/TheWat00cher.com)
+[![MasterHead](https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif)](https://github.com/TheWat00cher.com)
 <h1 align="center">Hi 👋, I'm Bhawesh Kumar Jha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India>/h3>
+<h4>Hi there! I'm Bhawesh Kumar Jha, a final year student pursuing a degree in Computer Science and Engineering. I have a strong passion for technology and a keen interest in exploring new advancements in the field. Throughout my academic journey, I've gained practical experience in programming languages like Java, Python, and C++, as well as in-depth knowledge of algorithms, data structures, and software development methodologies.</h4>
 <img align="right" alt="Coding" width ="400" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2880.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thewat00cher&label=Profile%20views&color=0e75b6&style=flat" alt="thewat00cher" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thewat00cher" alt="thewat00cher" /></a> </p>
 
 - 🌱 I’m currently learning ** springboot ,web development**
 
