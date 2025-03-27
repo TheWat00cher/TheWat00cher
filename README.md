@@ -1,4 +1,8 @@
-[![MasterHead](https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif)](https://github.com/TheWat00cher)
+<p align="center">
+  <a href="https://github.com/TheWat00cher">
+    <img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif" alt="MasterHead" />
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Bhawesh Kumar Jha</h1>
 <h3 align="center">A passionate software developer from India</h3>
@@ -33,7 +37,7 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thewat00cher&show_icons=true&locale=en" alt="thewat00cher" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thewat00cher&" alt="thewat00cher" /></p>
-
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thewat00cher&" alt="thewat00cher" /></p>
+ -->
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=thewat00cher&margin-w=15" alt="thewat00cher" /> </p>
