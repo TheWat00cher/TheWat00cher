@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif)](https://github.com/TheWat00cher.com)
+[![MasterHead](https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif)](https://github.com/TheWat00cher)
 
 <h1 align="center">Hi 👋, I'm Bhawesh Kumar Jha</h1>
 <h3 align="center">A passionate software developer from India</h3>
